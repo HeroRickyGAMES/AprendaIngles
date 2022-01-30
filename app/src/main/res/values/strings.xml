@@ -2,4 +2,7 @@
     <string name="app_name">Aprenda Ingles</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ad_unit_id">ca-app-pub-1777154185753322/3169983460</string>
+
 </resources>
