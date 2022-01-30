@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                         //Fragmentos
                         .add("Bichos", BichosFragment.class)
                         .add("Numeros", NumerosFragment.class)
-                        .add("Vogais", VogaisFragment.class)
+                        //.add("Vogais", VogaisFragment.class)
                         .create()
         );
 
