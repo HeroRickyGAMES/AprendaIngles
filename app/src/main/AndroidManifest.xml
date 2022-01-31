@@ -11,7 +11,7 @@
         android:theme="@style/Theme.AprendaIngles">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1777154185753322~8242169139"/>
+            android:value="ca-app-pub-6292928795588601~8502803832"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

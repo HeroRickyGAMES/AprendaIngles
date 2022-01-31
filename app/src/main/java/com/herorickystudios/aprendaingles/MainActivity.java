@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
         adView.setAdSize(AdSize.BANNER);
 
-        adView.setAdUnitId("ca-app-pub-1777154185753322/3169983460");
+        adView.setAdUnitId("ca-app-pub-6292928795588601/4242966955");
 // TODO: Add adView to your view hierarchy.
         // Set your test devices. Check your logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
